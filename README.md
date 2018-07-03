@@ -1,2 +1,4 @@
-# quick-start-of-kafka
-Kafka 快速入门教程
+# Kafka 快速入门教程
+
+以一系列深入浅出的文章，从零开始让你掌握 Kafka 的特性以及使用，最终让 Kafka 成为你知识体系中的一部分。
+
